@@ -1,0 +1,20 @@
+// Todo list 
+
+
+16-10-2025
+
+code . - If we open our folder in file explorer and when we open cmd from there and when we click code . then vs code opens
+
+code= means vs code
+. = current directory
+ installation of node, postmon, insomnia and git hub.
+
+When we do changes in our file and if we want those changes in our web, then we have to stop the server and again refresh the web.
+To overcome this, we use nodemon.
+
+
+
+mongodb id- 68f1a173b0b316696d8687f6
+
+usname-rohitsair_db_user
+pwd-xlPOCV1nJi0WMSvs
